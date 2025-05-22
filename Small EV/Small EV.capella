@@ -386,6 +386,195 @@
         <ownedLinks xsi:type="re:CatalogElementLink" id="31fbce3c-b0fc-422f-8ae6-cbc3072b29e8"
             source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#1aeceebd-65b0-4baa-9065-4f6e82655e56"
             origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#75955394-d7e5-4e7b-969a-faa2eb18a2d9"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="777a57db-ffaf-4164-8516-e807e10d82cc"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#1f3c8b71-ecae-4c3b-ad6b-a4f6b5219e6a"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#fad1e4ef-a4d6-48e8-ad57-ca245b3381e6"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="cc48c7ef-c4bb-4476-9186-429f9ac50e07"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#4b1198ee-5b9a-4d19-8aef-40904a8aa0c1"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#9a364859-b7f7-4542-967b-807eeff9253a"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="0bbae8da-8c0d-4133-b036-3d3235528d7d"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#4c7c07a3-28d6-47a4-8cf0-e214b2597887"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#0b8cb37f-b4b4-481b-849e-942625abf490"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="ae17904c-910a-46ba-815a-f4e6acfaddb9"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#46c7be6c-0f59-45a4-9c52-c3f74a5a9679"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#99fd3d63-091f-4f5d-b1c9-1aeab11ad997"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="349de8d9-b3dc-4b80-b14e-d08d0144b114"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#fa6a0a22-4b57-4518-b90d-db5837cdf2c1"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#da89f2be-11ea-406b-9cba-9569add6d9e6"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="f016b4d2-89c7-4279-89b4-87eea6f7cd90"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#c2e6d062-38df-41b3-9669-1a13478caf2f"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#aed799d6-b74d-48fe-89a0-b5a0eeb5d524"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="5148f2c3-f74f-43e4-b93a-474ab4871842"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#45051b88-352b-4ee4-af7f-34aa33476430"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#3f4c420f-d194-433e-beee-ef75e3967905"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="01e5ef51-04bc-496b-ad7d-b08eba2d3d43"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#19a1d5e5-42b0-4571-9873-707112445900"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#af4d8449-71c3-4ae8-91c8-28b5f8796fd1"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="0e095005-f251-4dc9-aaff-1ae942864d5d"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#688bdb56-9d11-4ae3-becb-e09ed0a1ae16"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#ac0e7b45-aab6-4028-b54c-e17d8b46cd24"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="66522c11-8e21-4980-bb07-d9388e29e5a7"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#823aa5e1-2de5-4229-b0b9-016cb3c6d78a"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#379335fd-5946-40e3-98a4-193fe8fded00"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="271d0b21-4e04-4e82-98f4-acaa8d2b3914"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#93d463bc-6678-432a-a2a1-65219c4dde82"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#c4558e25-e997-49bf-82bd-3f4c16cea29d"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="b66dfa75-d4c1-4f64-b77a-0d82d89627a0"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#eb34f85d-f7a7-41d1-bafc-c9f186352f98"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#98bb3444-1d84-46ae-8e0e-87e41e17a7a9"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="d2d8f6e2-2134-41a6-ac0b-fbbbdefcc877"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#0e7df971-dd0b-476d-8f04-9aca1b611576"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#99880a5d-8475-4348-8eec-ddd8cebb3949"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="b60bb949-0278-4bd0-93f7-33a461f9bf64"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#6d142046-42ef-473b-b007-991bef28cb61"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#d0a8b3ef-e8a1-40d2-a210-d0e72fbee49b"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="df5c39e8-4865-4478-bbae-2f9974f7b176"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#8a127df9-0d11-432d-a19b-29c912544866"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#a8f92961-362f-48a4-8909-16dd2d4b38be"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="47bf1580-2e95-4da2-9634-fd8b838cffc2"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#f772ea0f-f658-48b8-9527-ed75807c9fae"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#21f6aba3-85cd-4514-acc3-d4d11ff78a4e"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="b966da20-503d-4f05-853f-24166a9936b7"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#f95497cd-672a-46c6-a1f2-9f2d451ab733"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#aa361f73-31d0-490a-a62d-b1d84fb3b720"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="138efb8d-5afc-4394-8a49-47201e120fa9"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#f01b0569-59df-4c1b-8929-c420035dc26a"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#f1e6fd65-f79b-4928-9efc-bdd29c2cb8c7"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="d1f555cf-7e0b-498b-951c-2a2c8f0ad232"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#5b285efa-3018-4f35-85f5-97f70c18ffba"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#7f11eff0-346d-4d40-909e-a575a9b35726"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="ac854374-ef00-4ba7-a018-9197694b1691"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#8c7788b6-6ac2-43a4-8fdf-fab32d4f7cd9"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#75237462-2cb4-4ee1-9fcb-5f139772bad8"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="ac861553-853a-4fa9-a056-1550f3ed756a"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#7b95bd46-f0fe-4c61-8dad-d83fbf965f41"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#f9403e16-0cd1-4177-b5c6-1aeb6e6ec5db"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="bcce57c1-837c-446f-8887-7329359102fe"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#6b9f8f53-732c-416e-acbc-70b1b3a8bffc"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#bea1575e-d346-479a-a7db-06847a0d5f15"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="73ed0336-7c5b-4507-a09f-d6197ac9c0cb"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#6008c2d2-f16c-48a4-a94c-5e7baae762d4"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#62e98403-788e-4a1e-9ddb-9d9d8e7294ec"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="e138380d-7044-44b2-b525-b3d847945e69"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#db71fda1-4485-46a0-b3bb-70765101f595"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#3380585f-4a64-44f8-8fd7-69a9cb5efff1"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="7a6f1cd6-e49b-4ee6-8e88-10a560be0d8f"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#73b83f3e-6ad2-497d-8088-dfffaea5c5c4"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#b11bd5d8-3ea3-4479-a5f9-10c1717a77d5"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="0441023d-fbcd-4984-8185-caab419141c5"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#54caed7a-1f36-4e41-b8c4-6aef43366735"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#cc6c9ebe-33d9-49ad-b0bf-bff5020f4283"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="5a2bd06e-73e2-4aee-af31-e074579bf812"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#57c2e6ab-73d6-4ba5-9131-e29cac7acc1e"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#dc5c4f99-4f2e-4ad1-9011-7d49aa1e534a"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="9e53822b-0e5e-42dc-99f7-32d7bb113d67"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#985b62c1-4e22-4921-8a0e-b61064ac2498"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#9f36ba46-fdf5-4cde-8b46-931fa34c0cec"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="28b523ec-5b55-4b7b-ad51-ca69cfcd2b06"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#5808a4cf-a01b-4102-9456-d0a25c5ea9fe"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#27b27025-a6c7-42c0-ac00-1bbbf3791943"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="ac8b909c-df6b-409a-95be-edd46c3285aa"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#4a8482a4-f5e6-41a2-851e-29325dd7c1c9"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#d95e4f97-290f-4ad8-a2e7-9d54ca7ac123"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="9766fb3a-bf12-4c4e-8525-0159babceeba"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#dbeef0b5-b6c4-4122-a1d6-997cd5825137"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#6303748a-9061-4a30-a054-3e7a284caf9f"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="149ead9b-620c-4dec-972d-e6ad26ac1b81"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#a568d430-adea-46c9-b650-dab5485d08d1"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#dbc85e94-afa1-4a03-ab59-8f5d28b9db66"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="407f0a50-e916-46aa-8017-0b41d81791b3"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#a7726814-bf7c-4acd-a761-cb736dad3fb7"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#34a970c6-b1ef-445b-bc55-d57b67b4977b"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="81ca90d4-f649-4a13-be30-09fd42b00be0"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#404069ba-b8ff-4241-9797-953af03f562d"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#2ac22142-af81-42a8-a99e-f734903c6d79"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="943ac6de-e0be-4be6-87ac-16abcc47fa5b"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#a8975d81-f153-477c-a752-5b665a8ab456"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#2fc0440f-781a-42ec-ab09-41ec8acb8802"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="2948de69-690d-4b0e-a69f-950ecaba73ae"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#eebb4d4e-9f1e-41c8-a9d8-a66679b2ee56"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#4d34c0e9-daa9-45f9-85a7-1072b1a80f42"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="2c52457f-6291-4824-b02f-ef48a2f59df0"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#7c390c5c-b7bc-4a19-a671-196e04449950"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#790ea3f3-462a-4257-9ca5-4e2630a3870f"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="567e23f9-ce86-405f-a939-d65d79fc3a02"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#326040dc-43b7-442c-ad01-e6cf1cdb40d7"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#b28843fb-faf7-4dfb-ac15-60ef39f267c2"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="f2ca8bdb-ee69-4c7c-bebd-88913b54448b"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#9a212811-0a42-465f-8dad-81fce72668a6"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#24435802-4456-46de-9ef6-09c7ffea664d"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="934ae761-249a-4187-ac79-577df6155ff8"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#47b46ecc-1a49-4665-b3d0-d0e7d08014e1"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#4851fb76-1588-4c7e-b754-ea190ab1b7ba"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="2506cb19-bb00-45d7-8edd-3e6ad1c1838a"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#3a2e5b7c-8a4b-4815-adaa-c86b2305440a"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#f0e0985b-dbed-4d54-963c-92016f141162"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="634b5067-f0e4-408f-bf5d-17d54e349e30"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#db3f70c3-5039-4c82-bbe8-2f166d3b7dea"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#b76e747f-2938-40cf-9722-a951502a17df"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="16d54f4f-487b-4ffb-93df-c33a485de058"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#5eba6777-3f36-4ad7-8630-8b865d76c8e3"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#eacc2314-68d7-4633-96aa-53f8f21eefd8"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="f83d37a7-c080-4013-ba28-bab4b92a093a"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#a2ab5219-0297-466e-8b0a-3cecd0672096"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#d5bb632b-1780-4a29-8940-470ad24c0891"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="af597794-59c8-4c0d-9d0f-6b081c35af99"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#cfadb094-7e0d-4cff-b217-6e0d59d2e536"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#2cffe552-5b7c-4a9f-88c3-b5151ba8ecea"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="0f317757-5a7b-4e4c-9657-eaa53e60d085"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#b2915a1d-129b-4acb-a6a7-f8ec0c17c15f"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#317c0ea7-b20a-4810-b29d-5849c71894ef"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="01941ba7-bc6c-4999-bce1-53231b60161d"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#1237b46b-0c82-4c17-b401-5b6655cc59a9"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#caaa29f3-c651-46ed-aca9-d72364af5e7a"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="cea67c31-4eed-416b-91c4-598483d9fbc0"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#6e13d592-c853-4ffc-b9f6-8c58698a035a"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#6cbfca26-ba23-4615-8e3b-b845417e92db"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="8d6e8d8d-77e1-4a82-bec5-070519d03ba0"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#889c6d71-330d-4814-b7b7-fd1a9af48481"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#d8a9e750-0427-440c-b38b-6fa839e24d11"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="a7a0ecb0-2ab1-44a8-a015-413c5b1b6554"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#5ba188fc-fe89-4282-b998-58175b807427"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#b11a3287-8f15-4074-a111-9c014be7b510"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="df7ba40f-c7be-4608-9667-62f27112b661"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#c9269ef2-9fdd-434a-bd42-5e99fa8ddd3a"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#0fa9ef20-5dc1-4741-90ff-bf898895b514"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="ab077b6f-6ecb-4de8-b98a-08da44c32209"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#5175697b-b6da-4973-97ac-0dc51eeb97e1"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#f4eccf92-c9be-4ce8-ba74-0c85b98363e3"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="7067b7cd-a091-427c-842c-2a2ba1b95c56"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#562c9945-548f-4bb2-8ac0-1f02f36ac538"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#d7b04c20-49a6-489f-af77-6d28d58b2019"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="0e54035f-7cf6-4e80-9bad-c794e398322f"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#e324ded3-5cbb-41e2-b8b0-a317544992d5"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#0d62074c-9cc4-4b3f-b0c0-63b81cf597d1"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="54a94c72-99ba-47ff-8624-d418cdb65c9a"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#9121edf6-62cb-4ea5-8fd0-14003e316c6e"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#28e69271-bbc2-454f-80d6-326f73e9f7a3"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="25743cbc-4e57-4731-bacc-86115d88af20"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#04fa6571-4a4a-4d42-92eb-9924f327ba6a"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#4d712a59-49ce-491f-b41a-a4da1307685e"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="7f9da53c-d9f5-4b6e-ad3b-9892d421e6cc"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#5fec6243-5577-4f80-8c60-0df8358b40ed"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#3b066fc8-0736-418d-92bf-7e6afed0b7a2"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="20643ce3-f5e3-431c-93cf-c6ba864caf05"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#9bea51d1-af37-4efe-be07-deb5db63f8ad"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#311bf2eb-dbe8-44b7-80c8-e858606ef2aa"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="96f782b4-d719-477b-8eb4-6cd14224e599"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#41e6351f-ed59-490d-98b5-568d1279ac2a"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#ad994916-3a94-44a8-ad91-504406426f7e"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="660593df-a1da-42f9-b7b3-f0668464e90d"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#11258059-0fa4-479c-8994-1de4a853271d"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#087444f7-0b41-4643-92e9-9ebb669a7d19"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="4b2d1f52-4570-44af-8b95-39ce56f6e12c"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#c450a0ae-0490-4de1-9666-5286483ca9fd"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#977f52ad-d087-42e6-977a-4c18b9d2b9c9"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="5882d412-2a86-4acc-a42c-6d5362e965e1"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#5b056953-e6e0-4519-ab97-a1f547239c58"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#e9ab111d-cdf1-4acb-bfcd-db15e65d74b1"/>
+        <ownedLinks xsi:type="re:CatalogElementLink" id="1e1263b7-2538-4430-b050-2d0fe43ca164"
+            source="#ef4605ce-12e9-4159-af7b-d990db77c463" target="#3741b23a-ba0b-40d4-b46e-c6976538ae6e"
+            origin="re:CatalogElementLink ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#0b4c1a41-3087-4cd5-be55-fd80c0fda1fd"/>
       </ownedElements>
       <ownedElements xsi:type="re:CatalogElement" id="b10e51a6-603c-4a42-915e-7e2bc2733872"
           name="BCM CMU Logical" kind="RPL" suffix="" origin="re:CatalogElement ../Battery%20Control%20Module/Battery%20Control%20Module.capella#1da1dc66-a6c3-4463-8c41-229828b58ebb"
@@ -2752,6 +2941,76 @@
                 id="7d2273db-c458-4737-a8b6-a51934fd3eb8" targetElement="#27b6a4b7-69c9-4162-925b-775fa027d24e"
                 sourceElement="#8cea2aa2-094f-4ffe-85d9-6800c26d9e5d"/>
           </ownedFunctionalChains>
+          <ownedFunctionalChains xsi:type="org.polarsys.capella.core.data.fa:FunctionalChain"
+              id="f01b0569-59df-4c1b-8929-c420035dc26a" name="Warm Battery">
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="db3f70c3-5039-4c82-bbe8-2f166d3b7dea" involved="#29302e7b-426b-4fe3-a99c-2c1831c1f7f6"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="6e13d592-c853-4ffc-b9f6-8c58698a035a" involved="#8c7788b6-6ac2-43a4-8fdf-fab32d4f7cd9"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementLink"
+                id="b2915a1d-129b-4acb-a6a7-f8ec0c17c15f" involved="#985b62c1-4e22-4921-8a0e-b61064ac2498"
+                source="#db3f70c3-5039-4c82-bbe8-2f166d3b7dea" target="#6e13d592-c853-4ffc-b9f6-8c58698a035a"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="5eba6777-3f36-4ad7-8630-8b865d76c8e3" involved="#9eaaba65-8a16-41cf-8e38-edf72d08be21"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementLink"
+                id="889c6d71-330d-4814-b7b7-fd1a9af48481" involved="#4a8482a4-f5e6-41a2-851e-29325dd7c1c9"
+                source="#6e13d592-c853-4ffc-b9f6-8c58698a035a" target="#5eba6777-3f36-4ad7-8630-8b865d76c8e3"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="1237b46b-0c82-4c17-b401-5b6655cc59a9" involved="#042c6466-ddba-419d-b491-625a754f47ef"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementLink"
+                id="a2ab5219-0297-466e-8b0a-3cecd0672096" involved="#5808a4cf-a01b-4102-9456-d0a25c5ea9fe"
+                source="#6e13d592-c853-4ffc-b9f6-8c58698a035a" target="#1237b46b-0c82-4c17-b401-5b6655cc59a9"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="cfadb094-7e0d-4cff-b217-6e0d59d2e536" involved="#ef7748d3-77f9-4e2a-9d6b-d50e7ec4bb55"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementLink"
+                id="5ba188fc-fe89-4282-b998-58175b807427" involved="#e2c19d61-9379-41d7-9119-82f78f31b454"
+                source="#1237b46b-0c82-4c17-b401-5b6655cc59a9" target="#cfadb094-7e0d-4cff-b217-6e0d59d2e536"/>
+          </ownedFunctionalChains>
+          <ownedFunctionalChains xsi:type="org.polarsys.capella.core.data.fa:FunctionalChain"
+              id="4c7c07a3-28d6-47a4-8cf0-e214b2597887" name="Cool Battery">
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="46c7be6c-0f59-45a4-9c52-c3f74a5a9679" involved="#7daac9b3-89c3-42df-aba6-b9cd9c54ed7e"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementLink"
+                id="fa6a0a22-4b57-4518-b90d-db5837cdf2c1" involved="#7c9b257e-92e4-40c3-a256-09e1ceabc607"
+                source="#46c7be6c-0f59-45a4-9c52-c3f74a5a9679" target="#c2e6d062-38df-41b3-9669-1a13478caf2f"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="c2e6d062-38df-41b3-9669-1a13478caf2f" involved="#ef7748d3-77f9-4e2a-9d6b-d50e7ec4bb55"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementLink"
+                id="45051b88-352b-4ee4-af7f-34aa33476430" involved="#770667d1-b4c8-4481-a6be-c5c2dde20ded"
+                source="#19a1d5e5-42b0-4571-9873-707112445900" target="#46c7be6c-0f59-45a4-9c52-c3f74a5a9679"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="19a1d5e5-42b0-4571-9873-707112445900" involved="#29302e7b-426b-4fe3-a99c-2c1831c1f7f6"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="57c2e6ab-73d6-4ba5-9131-e29cac7acc1e" involved="#9eaaba65-8a16-41cf-8e38-edf72d08be21"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementLink"
+                id="54caed7a-1f36-4e41-b8c4-6aef43366735" involved="#820e6db5-35b5-4785-a395-65f9f8566dbe"
+                source="#c2e6d062-38df-41b3-9669-1a13478caf2f" target="#57c2e6ab-73d6-4ba5-9131-e29cac7acc1e"/>
+          </ownedFunctionalChains>
+          <ownedFunctionalChains xsi:type="org.polarsys.capella.core.data.fa:FunctionalChain"
+              id="688bdb56-9d11-4ae3-becb-e09ed0a1ae16" name="Closed Loop Control">
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementLink"
+                id="823aa5e1-2de5-4229-b0b9-016cb3c6d78a" involved="#985b62c1-4e22-4921-8a0e-b61064ac2498"
+                source="#eb34f85d-f7a7-41d1-bafc-c9f186352f98" target="#93d463bc-6678-432a-a2a1-65219c4dde82"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="93d463bc-6678-432a-a2a1-65219c4dde82" involved="#8c7788b6-6ac2-43a4-8fdf-fab32d4f7cd9"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="eb34f85d-f7a7-41d1-bafc-c9f186352f98" involved="#29302e7b-426b-4fe3-a99c-2c1831c1f7f6"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementLink"
+                id="0e7df971-dd0b-476d-8f04-9aca1b611576" involved="#73b83f3e-6ad2-497d-8088-dfffaea5c5c4"
+                source="#eb34f85d-f7a7-41d1-bafc-c9f186352f98" target="#93d463bc-6678-432a-a2a1-65219c4dde82"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementLink"
+                id="6d142046-42ef-473b-b007-991bef28cb61" involved="#5808a4cf-a01b-4102-9456-d0a25c5ea9fe"
+                source="#93d463bc-6678-432a-a2a1-65219c4dde82" target="#8a127df9-0d11-432d-a19b-29c912544866"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="8a127df9-0d11-432d-a19b-29c912544866" involved="#042c6466-ddba-419d-b491-625a754f47ef"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementFunction"
+                id="f772ea0f-f658-48b8-9527-ed75807c9fae" involved="#9eaaba65-8a16-41cf-8e38-edf72d08be21"/>
+            <ownedFunctionalChainInvolvements xsi:type="org.polarsys.capella.core.data.fa:FunctionalChainInvolvementLink"
+                id="f95497cd-672a-46c6-a1f2-9f2d451ab733" involved="#4a8482a4-f5e6-41a2-851e-29325dd7c1c9"
+                source="#93d463bc-6678-432a-a2a1-65219c4dde82" target="#f772ea0f-f658-48b8-9527-ed75807c9fae"/>
+          </ownedFunctionalChains>
+          <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort" id="1f3c8b71-ecae-4c3b-ad6b-a4f6b5219e6a"
+              name="FIP 3"/>
           <ownedFunctions xsi:type="org.polarsys.capella.core.data.la:LogicalFunction"
               id="80abb349-cb9a-4d55-8c82-d98f6ef123e9" name="Convert stored battery energy into mechanical motion."/>
           <ownedFunctions xsi:type="org.polarsys.capella.core.data.la:LogicalFunction"
@@ -2767,6 +3026,8 @@
                 id="b0a9c2e0-322b-4b67-a96c-5e49453c78bc" name="FIP 4"/>
             <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                 id="a4f43306-d2db-4081-b39e-b1e14b8df115" name="FOP 1"/>
+            <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
+                id="6ccd5d0d-6f94-4112-8616-cf759fa65335" name="FOP 2"/>
           </ownedFunctions>
           <ownedFunctions xsi:type="org.polarsys.capella.core.data.la:LogicalFunction"
               id="e65440ee-78b8-4c7e-9a06-081d2288ee59" name="Monior electrical energy">
@@ -2895,7 +3156,7 @@
                 id="add6430a-7d7a-40b5-83cd-f22738c2e361" name="To Controller Press"/>
           </ownedFunctions>
           <ownedFunctions xsi:type="org.polarsys.capella.core.data.la:LogicalFunction"
-              id="9eaaba65-8a16-41cf-8e38-edf72d08be21" name="Produce Heat">
+              id="9eaaba65-8a16-41cf-8e38-edf72d08be21" name="Produce Heat " description="&lt;p>This Produces Heat when the controller applies power.&lt;/p>&#xA;">
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
                 id="489e072a-fe8e-4727-8db9-687959240801" name=""/>
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
@@ -3375,13 +3636,13 @@
               id="86e99a5f-c9c8-49c5-8ac2-ef3c4e32cf53" name="Generate and Absorb Heat"
               description="&lt;p>When a battery is charging it will heat up based on its efficiency. Battery requires some minimal amount of temperature to absorb a charge efficiently.&lt;/p>&#xA;">
             <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
-                id="f0344a7a-1a05-43da-8977-320414e009c2" name="FIP 1"/>
-            <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
-                id="fde2ab67-8453-49c7-9e41-d35c51ad6bea" name="FOP 1"/>
+                id="a51ab569-8cb4-4441-80b0-b98bf5995a6b" name="FIP 1"/>
             <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                 id="b20511b8-c74c-4af8-9f0b-d040ee1cdfbf" name="FOP 2"/>
             <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                 id="e94b83d4-a7b2-4713-8e60-c9cf5a467b8e" name="FOP 3"/>
+            <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
+                id="31f9f4eb-18a7-462f-82f9-e2391fad8a30" name="FOP 4"/>
           </ownedFunctions>
           <ownedFunctions xsi:type="org.polarsys.capella.core.data.la:LogicalFunction"
               id="a32d8651-edc9-4eca-90a4-3ebbc659b623" name="Provide cell signals">
@@ -3427,6 +3688,35 @@
               id="2f915519-d25e-403a-a3c5-627bffd32d73" name="Retrieve Battery Life">
             <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                 id="71935661-0d47-48c4-8329-741198d19307" name="FOP 1"/>
+          </ownedFunctions>
+          <ownedFunctions xsi:type="org.polarsys.capella.core.data.la:LogicalFunction"
+              id="8c7788b6-6ac2-43a4-8fdf-fab32d4f7cd9" name="Control Motor">
+            <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
+                id="7b95bd46-f0fe-4c61-8dad-d83fbf965f41" name="FIP 1"/>
+            <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
+                id="6b9f8f53-732c-416e-acbc-70b1b3a8bffc" name="FIP 2"/>
+            <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
+                id="6008c2d2-f16c-48a4-a94c-5e7baae762d4" name="FOP 1"/>
+            <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
+                id="db71fda1-4485-46a0-b3bb-70765101f595" name="FOP 2"/>
+          </ownedFunctions>
+          <ownedFunctions xsi:type="org.polarsys.capella.core.data.la:LogicalFunction"
+              id="0581979b-9309-4aa1-9fc7-c9025448f273" name="Distribute and Collect Heat">
+            <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
+                id="f0344a7a-1a05-43da-8977-320414e009c2" name="FIP 1"/>
+            <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
+                id="3f719025-b9e2-47f2-a678-d9dcca2e309a" name="FIP 2"/>
+            <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
+                id="fde2ab67-8453-49c7-9e41-d35c51ad6bea" name="FOP 1"/>
+            <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
+                id="14bd05eb-257c-461a-9e8c-3c90a10b6f43" name="FOP 2"/>
+          </ownedFunctions>
+          <ownedFunctions xsi:type="org.polarsys.capella.core.data.la:LogicalFunction"
+              id="48ddd611-f52b-43e5-8c7e-babfe59c6db7" name="Provide Power">
+            <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
+                id="405dfe4e-69be-42ea-b608-82ff2e62d04c" name="FIP 1"/>
+            <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
+                id="4cde52d5-0236-461a-8af2-0f35f13136e2" name="FOP 1"/>
           </ownedFunctions>
           <ownedFunctionRealizations xsi:type="org.polarsys.capella.core.data.fa:FunctionRealization"
               id="397777b3-fe1b-4182-9d6e-361e46343d01" targetElement="#1a61a9b2-bcd5-4c12-b78e-2bf52757d6d5"
@@ -3638,11 +3928,11 @@
                 sourceElement="#34c7a4d3-d418-4aa3-86f5-910ece684cf0"/>
           </ownedFunctionalExchanges>
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
-              id="4250bcee-00d8-4ac3-aca9-cd2d1870e80a" name="FunctionalExchange 39"
-              target="#01433fd5-c976-411b-b26e-2c03a4c40b4b" source="#fde2ab67-8453-49c7-9e41-d35c51ad6bea"/>
+              id="4250bcee-00d8-4ac3-aca9-cd2d1870e80a" name="Heat" target="#01433fd5-c976-411b-b26e-2c03a4c40b4b"
+              source="#fde2ab67-8453-49c7-9e41-d35c51ad6bea"/>
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
-              id="7296d928-318c-4698-9159-05c843e483a9" name="FunctionalExchange 40"
-              target="#f0344a7a-1a05-43da-8977-320414e009c2" source="#b0cbd210-e217-4040-bacc-fa21743abfe8"/>
+              id="7296d928-318c-4698-9159-05c843e483a9" name="Heat" target="#f0344a7a-1a05-43da-8977-320414e009c2"
+              source="#b0cbd210-e217-4040-bacc-fa21743abfe8"/>
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
               id="86859aa2-1376-4f7a-bd3b-82f5ae11bc77" name="Heat" target="#fdef8198-fe6c-4fcf-ae55-38b879c4155d"
               source="#b20511b8-c74c-4af8-9f0b-d040ee1cdfbf"/>
@@ -3682,6 +3972,33 @@
           <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
               id="e5aaf45f-c3b4-4f8b-8be2-c54a277137ea" name="get safety state" target="#a70a71bd-7f50-439d-83db-6e442069c1f6"
               source="#dbe4fa49-42f0-44d4-a93d-5c7e522f9b38"/>
+          <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
+              id="5808a4cf-a01b-4102-9456-d0a25c5ea9fe" name="Motor Control" target="#c8190d27-f863-4a85-af0e-dd086486bc2f"
+              source="#6008c2d2-f16c-48a4-a94c-5e7baae762d4"/>
+          <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
+              id="4a8482a4-f5e6-41a2-851e-29325dd7c1c9" name="Heater Control" target="#4ae1cc09-567f-4e55-b35f-a4057dc29e9c"
+              source="#db71fda1-4485-46a0-b3bb-70765101f595"/>
+          <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
+              id="985b62c1-4e22-4921-8a0e-b61064ac2498" name="Water Temp" target="#7b95bd46-f0fe-4c61-8dad-d83fbf965f41"
+              source="#f7232e4e-d373-4466-a35d-b59872c7bee0"/>
+          <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
+              id="4b1198ee-5b9a-4d19-8aef-40904a8aa0c1" name="Heat" target="#1f3c8b71-ecae-4c3b-ad6b-a4f6b5219e6a"
+              source="#b0cbd210-e217-4040-bacc-fa21743abfe8"/>
+          <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
+              id="73b83f3e-6ad2-497d-8088-dfffaea5c5c4" name="Water Pressure" target="#6b9f8f53-732c-416e-acbc-70b1b3a8bffc"
+              source="#add6430a-7d7a-40b5-83cd-f22738c2e361"/>
+          <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
+              id="a76603bc-62da-4beb-9f62-cb458cade0b0" name="Heat" target="#a51ab569-8cb4-4441-80b0-b98bf5995a6b"
+              source="#14bd05eb-257c-461a-9e8c-3c90a10b6f43"/>
+          <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
+              id="9efb8d7a-f70c-4c3c-9bbf-172bfada6042" name="Heat" target="#3f719025-b9e2-47f2-a678-d9dcca2e309a"
+              source="#31f9f4eb-18a7-462f-82f9-e2391fad8a30"/>
+          <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
+              id="0b0d3db7-4f39-4498-8fd8-56693f40dedd" name="Power" target="#5bac65cd-2ebf-4f1c-926e-5d908e2fe29c"
+              source="#4cde52d5-0236-461a-8af2-0f35f13136e2"/>
+          <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
+              id="503913c4-fb18-495c-bd5d-4587651ec1e2" name="Power" target="#405dfe4e-69be-42ea-b608-82ff2e62d04c"
+              source="#6ccd5d0d-6f94-4112-8616-cf759fa65335"/>
         </ownedLogicalFunctions>
       </ownedFunctionPkg>
       <ownedAbstractCapabilityPkg xsi:type="org.polarsys.capella.core.data.la:CapabilityRealizationPkg"
@@ -3791,8 +4108,22 @@
                 id="75b0234d-2051-4bd4-828b-e3aada856577" targetElement="#7137c47e-b6c7-4559-9044-03aa1a0d5a9f"
                 sourceElement="#850a3053-cede-4e5d-946c-bd4195cafe54"/>
           </ownedComponentExchanges>
+          <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+              id="dda6d15a-d5a1-4bc9-b987-6607477b8e4a" name="Mounting" source="#b79146a8-751d-4085-b37b-f34910275b57"
+              target="#08e5ca9d-7f28-46d8-8c18-12ef534436c2" kind="FLOW"/>
+          <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+              id="85eb11f5-db51-42be-9d16-1f9e878223e1" name="Mounting" source="#de865bfd-32f9-4d2a-affb-e46fba86d6fe"
+              target="#d52ec2a4-b6d8-4cf3-9e25-8a7f41dad9c6" kind="FLOW"/>
+          <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+              id="2fe053c1-d77f-41ae-bd30-b639529eea70" name="Mechanical" source="#558fdbcf-0cef-4930-9792-c460e37653f9"
+              target="#340759f5-b64d-4c85-9093-84a978e9267b" kind="FLOW"/>
+          <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+              id="6054455d-2825-4fc0-b486-2ea2fa057bdf" name="Mechanical" source="#0005d06c-d152-4b78-aaf7-9a425d59c87a"
+              target="#60d57838-12a3-49ce-85c5-0064b0bc8df2" kind="FLOW"/>
           <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="57d1ca6e-6070-42d3-a3fb-a2862b28a474"
               name="Vehicle" abstractType="#9f4c5403-9ea6-4fa9-9b4f-e04ff05d9abe"/>
+          <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="025228c2-964e-42bf-9a71-8bf998033b92"
+              name="Chassis" abstractType="#0d4bfa31-795b-4742-903a-64455f6b20ba"/>
           <ownedComponentRealizations xsi:type="org.polarsys.capella.core.data.cs:ComponentRealization"
               id="95dc6331-3a12-4d77-8116-f502facec81d" targetElement="#fd890a97-4aa3-46fc-88c3-7ec605f6964f"
               sourceElement="#64a99205-66a5-40aa-86e7-23f8a306d432"/>
@@ -3842,7 +4173,11 @@
                 target="#990a8a78-7d70-4976-942a-323b35523f48" kind="FLOW"/>
             <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
                 id="1e81edb6-c306-4cd2-ab2c-2d3a47e17ddf" name="C 10" source="#a7431594-e24f-4338-af90-f40f5461400a"
-                target="#1921f2e0-bb0c-4684-a4dc-7e6bcdc05a00" kind="FLOW"/>
+                target="#1921f2e0-bb0c-4684-a4dc-7e6bcdc05a00" kind="FLOW">
+              <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
+                  id="11e66c86-8790-4430-8d63-2640f12daf71" targetElement="#4250bcee-00d8-4ac3-aca9-cd2d1870e80a"
+                  sourceElement="#1e81edb6-c306-4cd2-ab2c-2d3a47e17ddf"/>
+            </ownedComponentExchanges>
             <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
                 id="bd2b5b78-8557-4e53-a717-75cb748435ed" name="C 11" source="#c70f6554-ce29-4e02-b1ee-96f3c4e95da6"
                 target="#ae1a95e3-9c22-458c-8194-306e0613ced0" kind="FLOW"/>
@@ -3884,7 +4219,11 @@
                 target="#a08b997c-c71c-4666-80d5-2765acc63569" kind="FLOW"/>
             <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
                 id="bd28cd3c-10ac-47b3-9d60-5d57ac90f558" name="C 24" source="#19cd5711-e8ec-46ec-96e3-6cd15da8d1f8"
-                target="#d90eaba6-60b9-4ebd-bbf7-8867e989f6c4" kind="FLOW"/>
+                target="#d90eaba6-60b9-4ebd-bbf7-8867e989f6c4" kind="FLOW">
+              <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
+                  id="22f18e8f-70a7-4e7c-9064-d6a984601157" targetElement="#7296d928-318c-4698-9159-05c843e483a9"
+                  sourceElement="#bd28cd3c-10ac-47b3-9d60-5d57ac90f558"/>
+            </ownedComponentExchanges>
             <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
                 id="4059fa59-b2fe-4f2c-aeae-d07e89ae7f38" name="VCU tp MCM" source="#761740fb-d4cf-4b15-9b29-07ef3b9e4255"
                 target="#25eb0c4f-6874-4031-9fca-c6f7d31e212b" kind="ASSEMBLY">
@@ -3897,6 +4236,13 @@
               <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
                   id="e65ab620-ed0c-47c0-8adc-ac7535e42eac" targetElement="#6ece9437-154d-4f8b-93f2-953671db7ce8"
                   sourceElement="#4059fa59-b2fe-4f2c-aeae-d07e89ae7f38"/>
+            </ownedComponentExchanges>
+            <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                id="5798bba7-76ec-4c94-8d49-6eaf8b9b6371" name="C 25" source="#ab881e29-bd39-4c01-a070-60043e09adb5"
+                target="#9d6125ff-4f59-4555-9d36-7e11ef6a89d3" kind="FLOW">
+              <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
+                  id="64bb6eab-dc96-4d17-a739-0b8c67c318b7" targetElement="#0b0d3db7-4f39-4498-8fd8-56693f40dedd"
+                  sourceElement="#5798bba7-76ec-4c94-8d49-6eaf8b9b6371"/>
             </ownedComponentExchanges>
             <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="fe01f1d1-a100-4d6b-b38d-600922007088"
                 name="Electric Drive" abstractType="#992e342e-e11c-4e40-a03d-cd24aa9fcfba"/>
@@ -4009,6 +4355,12 @@
                   name="HV Distrbution Module" abstractType="#1deafe5d-c3f8-4e8d-9a1a-494ed4367ce9"/>
               <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
                   id="10edd949-73a2-4948-baee-c3b9e21e82c2" name="Battery Pack">
+                <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
+                    id="f70e5f44-c2a8-44ea-bd1c-226ffa6ab9db" targetElement="#0581979b-9309-4aa1-9fc7-c9025448f273"
+                    sourceElement="#10edd949-73a2-4948-baee-c3b9e21e82c2"/>
+                <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
+                    id="61bd0e4f-2cf2-44e1-aa43-48ad09e99a6d" targetElement="#48ddd611-f52b-43e5-8c7e-babfe59c6db7"
+                    sourceElement="#10edd949-73a2-4948-baee-c3b9e21e82c2"/>
                 <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
                     id="558fdbcf-0cef-4930-9792-c460e37653f9" name="CP 1" orientation="OUT"
                     kind="FLOW"/>
@@ -4017,14 +4369,29 @@
                     kind="FLOW"/>
                 <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
                     id="a7431594-e24f-4338-af90-f40f5461400a" name="CP 3" orientation="OUT"
-                    kind="FLOW"/>
+                    kind="FLOW">
+                  <ownedPortAllocations xsi:type="org.polarsys.capella.core.data.information:PortAllocation"
+                      id="8800d1f1-882c-434e-8523-f78b32aa69fd" targetElement="#fde2ab67-8453-49c7-9e41-d35c51ad6bea"
+                      sourceElement="#a7431594-e24f-4338-af90-f40f5461400a"/>
+                </ownedFeatures>
                 <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="49e3f68b-e1e7-4618-8b31-5015a40c8d33"
                     name="Cell Monitoring Unit" abstractType="#ed9bb3c2-baae-4c1d-92c1-1018c3ce7fa5"/>
                 <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
                     id="d90eaba6-60b9-4ebd-bbf7-8867e989f6c4" name="CP 5" orientation="IN"
-                    kind="FLOW"/>
+                    kind="FLOW">
+                  <ownedPortAllocations xsi:type="org.polarsys.capella.core.data.information:PortAllocation"
+                      id="5c2f00a5-48ac-4aec-bef8-3b4fb9c09fcc" targetElement="#f0344a7a-1a05-43da-8977-320414e009c2"
+                      sourceElement="#d90eaba6-60b9-4ebd-bbf7-8867e989f6c4"/>
+                </ownedFeatures>
                 <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="e86de5f9-9dd3-4c52-b559-7675ad48abfa"
                     name="Battery" abstractType="#7fd451a7-3881-4dfc-8bd9-88c8bc499637"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                    id="ab881e29-bd39-4c01-a070-60043e09adb5" name="CP 7" orientation="OUT"
+                    kind="FLOW">
+                  <ownedPortAllocations xsi:type="org.polarsys.capella.core.data.information:PortAllocation"
+                      id="1f383c71-5148-4f42-855c-899663d7f748" targetElement="#4cde52d5-0236-461a-8af2-0f35f13136e2"
+                      sourceElement="#ab881e29-bd39-4c01-a070-60043e09adb5"/>
+                </ownedFeatures>
                 <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
                     id="ed9bb3c2-baae-4c1d-92c1-1018c3ce7fa5" name="Cell Monitoring Unit">
                   <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
@@ -4379,6 +4746,60 @@
                     id="aceb01cb-4786-40cb-9ec6-e1a1be16a301" targetElement="#770667d1-b4c8-4481-a6be-c5c2dde20ded"
                     sourceElement="#a140542c-d738-43cb-aabb-2cf6f797c7ae"/>
               </ownedComponentExchanges>
+              <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                  id="9121edf6-62cb-4ea5-8fd0-14003e316c6e" name="C to Heater" appliedPropertyValueGroups="#04fa6571-4a4a-4d42-92eb-9924f327ba6a"
+                  source="#7c390c5c-b7bc-4a19-a671-196e04449950" target="#1b5f982d-8510-45f2-9460-66a8831d39d7"
+                  kind="FLOW">
+                <ownedPropertyValueGroups xsi:type="org.polarsys.capella.core.data.capellacore:PropertyValueGroup"
+                    id="04fa6571-4a4a-4d42-92eb-9924f327ba6a" name="Engine_System_Legend.EngineSystemExtension"
+                    appliedPropertyValueGroups="org.polarsys.capella.core.data.capellacore:PropertyValueGroup ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#0a18af83-674c-43c9-9ef9-f8f22209201f">
+                  <ownedPropertyValues xsi:type="org.polarsys.capella.core.data.capellacore:EnumerationPropertyValue"
+                      id="5fec6243-5577-4f80-8c60-0df8358b40ed" name="Energy Flows"
+                      appliedPropertyValues="org.polarsys.capella.core.data.capellacore:EnumerationPropertyValue ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#1e600651-9cef-42b9-92ed-aa3914a5274a"
+                      type="org.polarsys.capella.core.data.capellacore:EnumerationPropertyType ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#d73ac375-96ce-4970-b545-45a2095383d2"
+                      value="org.polarsys.capella.core.data.capellacore:EnumerationPropertyLiteral ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#0e6fd710-2b60-4f0f-adf3-d0fab3d47040"/>
+                </ownedPropertyValueGroups>
+                <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
+                    id="9bea51d1-af37-4efe-be07-deb5db63f8ad" targetElement="#4a8482a4-f5e6-41a2-851e-29325dd7c1c9"
+                    sourceElement="#9121edf6-62cb-4ea5-8fd0-14003e316c6e"/>
+              </ownedComponentExchanges>
+              <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                  id="41e6351f-ed59-490d-98b5-568d1279ac2a" name="HC to C" appliedPropertyValueGroups="#11258059-0fa4-479c-8994-1de4a853271d"
+                  source="#5630adb5-b28d-456b-a5b5-47d418b124a2" target="#9a212811-0a42-465f-8dad-81fce72668a6"
+                  kind="FLOW">
+                <ownedPropertyValueGroups xsi:type="org.polarsys.capella.core.data.capellacore:PropertyValueGroup"
+                    id="11258059-0fa4-479c-8994-1de4a853271d" name="Engine_System_Legend.EngineSystemExtension"
+                    appliedPropertyValueGroups="org.polarsys.capella.core.data.capellacore:PropertyValueGroup ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#0a18af83-674c-43c9-9ef9-f8f22209201f">
+                  <ownedPropertyValues xsi:type="org.polarsys.capella.core.data.capellacore:EnumerationPropertyValue"
+                      id="c450a0ae-0490-4de1-9666-5286483ca9fd" name="Energy Flows"
+                      appliedPropertyValues="org.polarsys.capella.core.data.capellacore:EnumerationPropertyValue ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#1e600651-9cef-42b9-92ed-aa3914a5274a"
+                      type="org.polarsys.capella.core.data.capellacore:EnumerationPropertyType ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#d73ac375-96ce-4970-b545-45a2095383d2"
+                      value="org.polarsys.capella.core.data.capellacore:EnumerationPropertyLiteral ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#0e6fd710-2b60-4f0f-adf3-d0fab3d47040"/>
+                </ownedPropertyValueGroups>
+                <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
+                    id="5b056953-e6e0-4519-ab97-a1f547239c58" targetElement="#73b83f3e-6ad2-497d-8088-dfffaea5c5c4"
+                    sourceElement="#41e6351f-ed59-490d-98b5-568d1279ac2a"/>
+                <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
+                    id="3741b23a-ba0b-40d4-b46e-c6976538ae6e" targetElement="#985b62c1-4e22-4921-8a0e-b61064ac2498"
+                    sourceElement="#41e6351f-ed59-490d-98b5-568d1279ac2a"/>
+              </ownedComponentExchanges>
+              <ownedComponentExchanges xsi:type="org.polarsys.capella.core.data.fa:ComponentExchange"
+                  id="c9269ef2-9fdd-434a-bd42-5e99fa8ddd3a" name="C - EM" appliedPropertyValueGroups="#5175697b-b6da-4973-97ac-0dc51eeb97e1"
+                  source="#a8975d81-f153-477c-a752-5b665a8ab456" target="#16f9833f-08a5-4d9b-ac78-1f3ae548b3dc"
+                  kind="FLOW">
+                <ownedPropertyValueGroups xsi:type="org.polarsys.capella.core.data.capellacore:PropertyValueGroup"
+                    id="5175697b-b6da-4973-97ac-0dc51eeb97e1" name="Engine_System_Legend.EngineSystemExtension"
+                    appliedPropertyValueGroups="org.polarsys.capella.core.data.capellacore:PropertyValueGroup ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#0a18af83-674c-43c9-9ef9-f8f22209201f">
+                  <ownedPropertyValues xsi:type="org.polarsys.capella.core.data.capellacore:EnumerationPropertyValue"
+                      id="562c9945-548f-4bb2-8ac0-1f02f36ac538" name="Energy Flows"
+                      appliedPropertyValues="org.polarsys.capella.core.data.capellacore:EnumerationPropertyValue ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#1e600651-9cef-42b9-92ed-aa3914a5274a"
+                      type="org.polarsys.capella.core.data.capellacore:EnumerationPropertyType ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#d73ac375-96ce-4970-b545-45a2095383d2"
+                      value="org.polarsys.capella.core.data.capellacore:EnumerationPropertyLiteral ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#0e6fd710-2b60-4f0f-adf3-d0fab3d47040"/>
+                </ownedPropertyValueGroups>
+                <ownedComponentExchangeFunctionalExchangeAllocations xsi:type="org.polarsys.capella.core.data.fa:ComponentExchangeFunctionalExchangeAllocation"
+                    id="e324ded3-5cbb-41e2-b8b0-a317544992d5" targetElement="#5808a4cf-a01b-4102-9456-d0a25c5ea9fe"
+                    sourceElement="#c9269ef2-9fdd-434a-bd42-5e99fa8ddd3a"/>
+              </ownedComponentExchanges>
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="7948f500-6ec4-419d-bcc8-0ac4863f70dc"
                   name="Therma Control Unit" abstractType="#d5d9397d-30d6-4ae6-a2c0-a10e91d35621"/>
               <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="be2757b0-a4b2-4e77-86fb-a7ada95f9172"
@@ -4409,6 +4830,47 @@
                 <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
                     id="1fe9b44b-b68e-485a-8f4f-0d5370ce49f0" name="CP 5" orientation="OUT"
                     kind="FLOW"/>
+                <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="5b285efa-3018-4f35-85f5-97f70c18ffba"
+                    name="Controller Behavior" abstractType="#dbeef0b5-b6c4-4122-a1d6-997cd5825137"/>
+                <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+                    id="dbeef0b5-b6c4-4122-a1d6-997cd5825137" name="Controller Behavior"
+                    appliedPropertyValueGroups="#a568d430-adea-46c9-b650-dab5485d08d1">
+                  <ownedPropertyValueGroups xsi:type="org.polarsys.capella.core.data.capellacore:PropertyValueGroup"
+                      id="a568d430-adea-46c9-b650-dab5485d08d1" name="NPI_Levels.CompLevelExtension"
+                      appliedPropertyValueGroups="org.polarsys.capella.core.data.capellacore:PropertyValueGroup ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#ada47c82-35fc-4785-9c2c-3f3f9df2e573">
+                    <ownedPropertyValues xsi:type="org.polarsys.capella.core.data.capellacore:EnumerationPropertyValue"
+                        id="a7726814-bf7c-4acd-a761-cb736dad3fb7" name="Level" appliedPropertyValues="org.polarsys.capella.core.data.capellacore:EnumerationPropertyValue ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#84e41ca3-7b59-471a-b18d-567d19978fd6"
+                        type="org.polarsys.capella.core.data.capellacore:EnumerationPropertyType ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#69362df0-1e1d-48c2-a50b-6c65d75294c2"
+                        value="org.polarsys.capella.core.data.capellacore:EnumerationPropertyLiteral ../EV_Thermal_System_Model/EV%20Thermal%20System.capella#fe2d2be6-1024-4538-a63c-b83c2aac6115"/>
+                  </ownedPropertyValueGroups>
+                  <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
+                      id="404069ba-b8ff-4241-9797-953af03f562d" targetElement="#8c7788b6-6ac2-43a4-8fdf-fab32d4f7cd9"
+                      sourceElement="#dbeef0b5-b6c4-4122-a1d6-997cd5825137"/>
+                  <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                      id="a8975d81-f153-477c-a752-5b665a8ab456" name="CP 1" orientation="OUT"
+                      kind="FLOW">
+                    <ownedPortAllocations xsi:type="org.polarsys.capella.core.data.information:PortAllocation"
+                        id="eebb4d4e-9f1e-41c8-a9d8-a66679b2ee56" targetElement="#6008c2d2-f16c-48a4-a94c-5e7baae762d4"
+                        sourceElement="#a8975d81-f153-477c-a752-5b665a8ab456"/>
+                  </ownedFeatures>
+                  <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                      id="7c390c5c-b7bc-4a19-a671-196e04449950" name="CP 2" orientation="OUT"
+                      kind="FLOW">
+                    <ownedPortAllocations xsi:type="org.polarsys.capella.core.data.information:PortAllocation"
+                        id="326040dc-43b7-442c-ad01-e6cf1cdb40d7" targetElement="#db71fda1-4485-46a0-b3bb-70765101f595"
+                        sourceElement="#7c390c5c-b7bc-4a19-a671-196e04449950"/>
+                  </ownedFeatures>
+                  <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                      id="9a212811-0a42-465f-8dad-81fce72668a6" name="CP 3" orientation="IN"
+                      kind="FLOW">
+                    <ownedPortAllocations xsi:type="org.polarsys.capella.core.data.information:PortAllocation"
+                        id="47b46ecc-1a49-4665-b3d0-d0e7d08014e1" targetElement="#6b9f8f53-732c-416e-acbc-70b1b3a8bffc"
+                        sourceElement="#9a212811-0a42-465f-8dad-81fce72668a6"/>
+                    <ownedPortAllocations xsi:type="org.polarsys.capella.core.data.information:PortAllocation"
+                        id="3a2e5b7c-8a4b-4815-adaa-c86b2305440a" targetElement="#7b95bd46-f0fe-4c61-8dad-d83fbf965f41"
+                        sourceElement="#9a212811-0a42-465f-8dad-81fce72668a6"/>
+                  </ownedFeatures>
+                </ownedLogicalComponents>
               </ownedLogicalComponents>
               <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
                   id="5b792a2b-56a4-4103-b888-50de8dfa366e" name="Electronics Coolin Circuit"/>
@@ -4449,7 +4911,11 @@
                 </ownedFeatures>
                 <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
                     id="1921f2e0-bb0c-4684-a4dc-7e6bcdc05a00" name="Battery Pack Coolant"
-                    orientation="IN" kind="FLOW"/>
+                    orientation="IN" kind="FLOW">
+                  <ownedPortAllocations xsi:type="org.polarsys.capella.core.data.information:PortAllocation"
+                      id="45cb43e1-be53-4a32-8ada-891beb3ee764" targetElement="#01433fd5-c976-411b-b26e-2c03a4c40b4b"
+                      sourceElement="#1921f2e0-bb0c-4684-a4dc-7e6bcdc05a00"/>
+                </ownedFeatures>
                 <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
                     id="b79146a8-751d-4085-b37b-f34910275b57" name="To Chassis" orientation="OUT"
                     kind="FLOW"/>
@@ -4522,7 +4988,11 @@
                     sourceElement="#7b38da12-5161-40ad-8cd5-0db8a6c1220a"/>
                 <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
                     id="19cd5711-e8ec-46ec-96e3-6cd15da8d1f8" name="To Battery" orientation="OUT"
-                    kind="FLOW"/>
+                    kind="FLOW">
+                  <ownedPortAllocations xsi:type="org.polarsys.capella.core.data.information:PortAllocation"
+                      id="8f6e0910-f27b-41a0-a459-2d57e39fd43f" targetElement="#b0cbd210-e217-4040-bacc-fa21743abfe8"
+                      sourceElement="#19cd5711-e8ec-46ec-96e3-6cd15da8d1f8"/>
+                </ownedFeatures>
                 <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
                     id="0c17a3fa-f1da-42d6-b992-31c408cf1eba" name="CP 7" orientation="IN"
                     kind="FLOW">
@@ -4801,6 +5271,21 @@
                   id="a08b997c-c71c-4666-80d5-2765acc63569" name="CP 6" orientation="IN"
                   kind="FLOW"/>
             </ownedLogicalComponents>
+          </ownedLogicalComponents>
+          <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
+              id="0d4bfa31-795b-4742-903a-64455f6b20ba" name="Chassis">
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                id="08e5ca9d-7f28-46d8-8c18-12ef534436c2" name="CP 1" orientation="IN"
+                kind="FLOW"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                id="de865bfd-32f9-4d2a-affb-e46fba86d6fe" name="CP 2" orientation="OUT"
+                kind="FLOW"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                id="340759f5-b64d-4c85-9093-84a978e9267b" name="CP 3" orientation="IN"
+                kind="FLOW"/>
+            <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
+                id="0005d06c-d152-4b78-aaf7-9a425d59c87a" name="CP 4" orientation="OUT"
+                kind="FLOW"/>
           </ownedLogicalComponents>
         </ownedLogicalComponents>
         <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
