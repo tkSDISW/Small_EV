@@ -4262,6 +4262,8 @@
                   id="530132e7-2fc9-4a81-849b-de6eff1153a4" name="FOP 1"/>
               <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
                   id="72c62935-b919-41c8-8814-018b28767083" name="get cell sensor data"/>
+              <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
+                  id="130f2d9b-dc50-4f1c-9c74-f729be0feea7" name="FOP 3"/>
             </ownedFunctions>
             <ownedFunctions xsi:type="org.polarsys.capella.core.data.la:LogicalFunction"
                 id="a0a8f2c3-754a-40ad-a579-b76be6a2003e" name="Thermal Management"
@@ -4985,6 +4987,8 @@
                   id="e9f02faf-d115-4403-a942-3c4be78a45c0" targetElement="#3f674f51-9e15-4899-b306-f5a1679b43a6"
                   sourceElement="#a22e524d-e154-41a6-b0cb-06ce48596e0a"/>
             </inputs>
+            <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
+                id="0b7d756a-d26c-4ad2-95b6-fd7109db3b30" name="FOP 1"/>
             <ownedFunctionRealizations xsi:type="org.polarsys.capella.core.data.fa:FunctionRealization"
                 id="383508cd-d025-4ae1-891a-7840c71f0fbc" targetElement="#4067c97f-ca93-4d4a-88dc-af2769c699dc"
                 sourceElement="#dffe7b66-4252-4fe7-a84d-7455afb4fa7f"/>
@@ -5030,6 +5034,20 @@
             <ownedFunctionRealizations xsi:type="org.polarsys.capella.core.data.fa:FunctionRealization"
                 id="d7fd333d-bd34-48b4-92b5-ffd058951169" targetElement="#55ad5293-d39e-415f-8068-7fe7cf618b2d"
                 sourceElement="#2824b2a6-d0c4-46cb-bc77-9ade78d1eab8"/>
+          </ownedFunctions>
+          <ownedFunctions xsi:type="org.polarsys.capella.core.data.la:LogicalFunction"
+              id="630f7eff-f753-4f48-a300-41f7c88551ba" name="AC to DC conversion">
+            <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
+                id="f6e460d2-af71-4b80-a1df-07bcba89810c" name="FIP 1"/>
+            <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
+                id="e94d1d4a-dbbd-4798-8f5f-2bc16be035e1" name="FIP 2"/>
+          </ownedFunctions>
+          <ownedFunctions xsi:type="org.polarsys.capella.core.data.la:LogicalFunction"
+              id="b5b8c190-a615-4943-8981-e8801d80aba6" name="Regulate Charge">
+            <inputs xsi:type="org.polarsys.capella.core.data.fa:FunctionInputPort"
+                id="28ca86fa-17de-4e98-9d2a-00819313364f" name="FIP 1"/>
+            <outputs xsi:type="org.polarsys.capella.core.data.fa:FunctionOutputPort"
+                id="ec500d37-ec15-48f6-b484-06e47ee080ce" name="FOP 1"/>
           </ownedFunctions>
           <ownedFunctionRealizations xsi:type="org.polarsys.capella.core.data.fa:FunctionRealization"
               id="397777b3-fe1b-4182-9d6e-361e46343d01" targetElement="#1a61a9b2-bcd5-4c12-b78e-2bf52757d6d5"
@@ -5347,6 +5365,15 @@
                 id="73d27a17-5558-4551-ba65-045b7cd3b8ba" targetElement="#266a8722-abf4-4a13-be17-9eb32426b31b"
                 sourceElement="#1a46bb87-e61a-4d20-a336-182a3eec51cf"/>
           </ownedFunctionalExchanges>
+          <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
+              id="8faeb60b-538d-4b43-90ce-459397379041" name="State of Charge" target="#28ca86fa-17de-4e98-9d2a-00819313364f"
+              source="#130f2d9b-dc50-4f1c-9c74-f729be0feea7"/>
+          <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
+              id="8dc5fac7-4bc9-4291-b663-200792364377" name="FunctionalExchange 69"
+              target="#f6e460d2-af71-4b80-a1df-07bcba89810c" source="#0b7d756a-d26c-4ad2-95b6-fd7109db3b30"/>
+          <ownedFunctionalExchanges xsi:type="org.polarsys.capella.core.data.fa:FunctionalExchange"
+              id="31ec2fe0-3855-479a-ab4e-6ca6f512601a" name="Control Charge" target="#e94d1d4a-dbbd-4798-8f5f-2bc16be035e1"
+              source="#ec500d37-ec15-48f6-b484-06e47ee080ce"/>
         </ownedLogicalFunctions>
       </ownedFunctionPkg>
       <ownedAbstractCapabilityPkg xsi:type="org.polarsys.capella.core.data.la:CapabilityRealizationPkg"
@@ -5999,6 +6026,12 @@
               </ownedLogicalComponents>
               <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
                   id="95bb4ee3-e184-472c-9e2d-a4e5bd82946a" name="On-board Charge">
+                <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
+                    id="c01a5497-8cc9-4100-acc4-a9e5c456eba6" targetElement="#630f7eff-f753-4f48-a300-41f7c88551ba"
+                    sourceElement="#95bb4ee3-e184-472c-9e2d-a4e5bd82946a"/>
+                <ownedFunctionalAllocation xsi:type="org.polarsys.capella.core.data.fa:ComponentFunctionalAllocation"
+                    id="82e17edd-7592-4c70-bd9c-29b583b81ad9" targetElement="#b5b8c190-a615-4943-8981-e8801d80aba6"
+                    sourceElement="#95bb4ee3-e184-472c-9e2d-a4e5bd82946a"/>
                 <ownedFeatures xsi:type="org.polarsys.capella.core.data.fa:ComponentPort"
                     id="b0fc5b7f-6a8f-4583-9a3c-6ed6ead335f9" name="CP 1" orientation="IN"
                     kind="FLOW"/>
